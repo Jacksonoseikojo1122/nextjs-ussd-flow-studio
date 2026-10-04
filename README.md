@@ -2,6 +2,8 @@
 
 [![CI](https://github.com/Jacksonoseikojo1122/nextjs-ussd-flow-studio/actions/workflows/ci.yml/badge.svg)](https://github.com/Jacksonoseikojo1122/nextjs-ussd-flow-studio/actions/workflows/ci.yml)
 
+**Live demo: [ussd-flow-studio.vercel.app](https://ussd-flow-studio.vercel.app)**
+
 A browser-based designer for USSD menu flows. Build the screens, check the flow
 in a phone-style simulator, fix any validation problems it reports, then export
 a standalone **Express** or **FastAPI** server that answers USSD gateway
